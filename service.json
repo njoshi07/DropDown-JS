@@ -1,0 +1,9 @@
+{
+    "services":[
+        { "name":"Threading", "Eyebrows": 10.00, "Upper Lip": 5.00, "Lower Lip": 2.00},
+        { "name":"Men Waxing", "Men Chest": 40.00, "Man Back": 40.00, "Man Half Back": 25.00},
+        { "name":"Heena Tatoo", "Any Symbol": 10.00, "Hands or Feet":15.00, "Bridal Heena": "Ask Us"},
+        { "name":"Facials", "Mini Facial": 30.00, "Facial": 55.00, "Back Facial": 55.00, "Front Facial": 56.00},
+        { "name":"Waxing", "Eyebrows":11.00, "Upper Lip":6.00, "Lower Lip": 3.00, "lip": 5.00}
+    ]
+}
