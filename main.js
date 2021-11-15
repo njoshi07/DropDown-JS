@@ -9,7 +9,6 @@ const displayPrice = document.querySelector('.price');
 selectOptions.addEventListener("change", selectFromDropDown);
 let finalRes = [];
 
-//  FUNCTION 1
 function selectFromDropDown(){
   //  **** Clearing  all rows before adding new rows
   document.querySelectorAll(".test1").forEach(test => test.innerHTML = "");
