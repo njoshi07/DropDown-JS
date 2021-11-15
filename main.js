@@ -1,8 +1,3 @@
-// NOTES
-  // selectedIndex  => To get option value index
-  //*** Follow this link  https://dev.to/ramonak/javascript-how-to-access-the-return-value-of-a-promise-object-1bck
-  // Follow this link https://www.javascripttutorial.net/javascript-dom/javascript-select-box/
-
 const selectOptions = document.querySelector('#service-select');
 
 const displayServiceTitle = document.querySelector('.serviceTtile');
